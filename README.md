@@ -105,9 +105,9 @@ The primary goal of this project is to:
 ---
 
 ## Contributors
-- **Sai Praneeth Veerapalli**
+
 - **Shubhang Yadav Sandaveni**
-- **Swapna Vippaturi**
+
 
 ---
 
